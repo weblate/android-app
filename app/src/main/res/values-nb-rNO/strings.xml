@@ -306,12 +306,12 @@
     <string name="title">Tittel</string>
     <string name="articleEdit_openArticle">Åpne artikkel</string>
     <string name="pref_categoryName_tts">Tekst-til-tale</string>
-    <string name="pref_desc_tts_fastForwardTime">Antallet sekunder og hoppe forover når «Rask framoverspoling»-knappen trykkes</string>
+    <string name="pref_desc_tts_fastForwardTime">Antall sekunder «Spol fremover» hopper fremover</string>
     <string name="pref_name_tts_rewindTime">Tilbakespolingshopp</string>
     <string name="pref_desc_ui_mathRendering_enabled">Skru på LaTeX-matteopptegning via KaTeX</string>
     <string name="pref_name_ui_mathRendering_enabled">Matte-opptegning</string>
     <string name="pref_desc_tts_showPreviewAsAlbumArt">Bruk artikkelforhåndsvisningsbilde (hvis det finnes) som omslagsbilde (synlig i merknader, og kan vises som låseskjermsbakgrunn)</string>
-    <string name="pref_name_tts_showPreviewAsAlbumArt">Bruk forhåndsvisning som omslagsbilde</string>
+    <string name="pref_name_tts_showPreviewAsAlbumArt">Forhåndsvis bilde som albumomslag</string>
     <string name="pref_name_tts_previousButtonIsRewind">«Forrige»-knapp spoler tilbake</string>
     <string name="pref_name_tts_nextButtonIsFastForward">«Neste»-knapp for hurtigspoling</string>
     <string name="manageTags_addMoreTags">Legg til flere stikkord:</string>
