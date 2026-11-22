@@ -125,7 +125,7 @@
     <string name="nav_other_about">Om</string>
     <string name="title_main_tag">Stikkord: %s</string>
     <string name="pref_name_runConnectionWizard">Kjør tilkoblingsveiviser</string>
-    <string name="pref_desc_runConnectionWizard">Geleider deg gjennom de mest grunnleggende tilkoblingsinnstillingene</string>
+    <string name="pref_desc_runConnectionWizard">Hjelper til med å sette opp grunnleggende tilkoblingsinnstillinger</string>
     <string name="pref_categoryName_connection">Tilkobling</string>
     <string name="pref_name_connection_url">wallabag-nettadresse</string>
     <string name="pref_name_connection_username">Brukernavn</string>
@@ -135,7 +135,7 @@
     <string name="pref_name_connection_autofill">Fyll inn automatisk</string>
     <string name="pref_desc_connection_autofill">Test tilkoblingen og fyll inn klient-ID og klienthemmelighet</string>
     <string name="pref_categoryName_connection_advanced">Avanserte tilkoblingsinnstillinger</string>
-    <string name="pref_categoryName_connection_advanced_httpAuth">Grunnleggende HTTP-autentisering</string>
+    <string name="pref_categoryName_connection_advanced_httpAuth">HTTP Basic-autentisering</string>
     <string name="pref_categoryDesc_connection_advanced_httpAuth">Hvis du ikke vet hva det er, la stå tomt</string>
     <string name="pref_categoryName_ui">Brukergrensesnitt</string>
     <string name="pref_name_ui_theme">Programdrakt</string>
