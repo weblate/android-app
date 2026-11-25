@@ -149,8 +149,8 @@
     <string name="pref_name_ui_screenScrolling_percent">Prosent av skjermhøyden å rulle</string>
     <string name="pref_name_ui_screenScrolling_smooth">Bruk myk rulling</string>
     <string name="pref_categoryName_sync">Synkronisering</string>
-    <string name="pref_name_sync_syncTypes">Synkroniseringstyper</string>
-    <string name="pref_desc_sync_syncTypes">Trykk for å vise mer info om synkroniseringstyper</string>
+    <string name="pref_name_sync_syncTypes">Synkroniseringsmåter</string>
+    <string name="pref_desc_sync_syncTypes">Trykk for mer info om synkroniseringsmåter</string>
     <string name="wrongUsernameOrPassword_errorMessage">Kunne ikke logge inn. Er brukernavn eller passord feil?</string>
     <string name="previousUpdateNotFinished">Forrige oppdatering er ikke ferdig</string>
     <string name="articleList_favoriteMark">Favorittmarkering</string>
@@ -246,7 +246,7 @@
     <string name="pref_categoryName_ui_misc">Ymse</string>
     <string name="pref_name_ui_disableTouch_enabled">Skru av trykkinndata</string>
     <string name="pref_desc_ui_disableTouch_enabled">Trykk den oppsatte knappen (kameraknappen som forvalg) for å blokkere/fjerne blokkering av trykkinndata på leseskjermen (systemkontroller påvirkes ikke)</string>
-    <string name="pref_name_ui_disableTouch_keyCode">SKru av trykkinndatatast</string>
+    <string name="pref_name_ui_disableTouch_keyCode">Knapp for «Ingen berøringsinndata»</string>
     <string name="pref_desc_ui_disableTouch_keyCode">Trykk her for å sette opp tasten brukt for å skru på/av trykkinndata</string>
     <string name="pref_name_storage_dbPath">Databaseplassering</string>
     <string name="pref_name_storage_dbPath_internalStorage">Internt lagringsmedium</string>
@@ -257,7 +257,7 @@
     <string name="remove_tag">Fjern stikkord</string>
     <string name="scrolledOverBottom">Rull %d gang(er) til forbi bunnen for å merke artikkelen som lest</string>
     <string name="markedAsRead">Artikkel merket som lest</string>
-    <string name="pref_name_ui_scrollOverBottom">Rull over bunnen for å markere som lest</string>
+    <string name="pref_name_ui_scrollOverBottom">Rull forbi bunnen for å merke som lest</string>
     <string name="pref_desc_ui_scrollOverBottom">Trykk her for å sette opp antall ganger du må rulle over bunnen for å markere en artikkel som lest</string>
     <string name="d_urlAction_copyToClipboard">Kopier til utklippstavle</string>
     <string name="pref_name_ui_article_fullscreen">Artikkel i fullskjermsvisning</string>
@@ -273,8 +273,8 @@
     <string name="notification_channel_name_downloading_articles">Laster ned PDF-filer</string>
     <string name="notification_channel_name_error">Feil</string>
     <string name="pref_name_ui_article_handlePreformattedText">Håndtering av forhåndsformatert tekst i langt format</string>
-    <string name="pref_desc_ui_article_handlePreformattedText">Hvordan forhåndsformatert tekst i langt format som er for lang skal håndteres.</string>
-    <string name="pref_name_ui_swipeArticles">Svisj artikler</string>
+    <string name="pref_desc_ui_article_handlePreformattedText">Hvordan forhåndsformatert tekst som er for lang til å vises i sin helhet, skal håndteres.</string>
+    <string name="pref_name_ui_swipeArticles">Sveip artikler</string>
     <string name="pref_desc_ui_swipeArticles">Dra til venstre eller høyre i en artikkel for å gå til neste eller forrige</string>
     <string name="pref_name_ui_previewImage_enabled">Forhåndsvis bilde</string>
     <string name="pref_desc_ui_previewImage_enabled">Vis forhåndsvisningsbildet før artikkelen</string>
