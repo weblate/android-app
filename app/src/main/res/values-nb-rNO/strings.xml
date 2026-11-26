@@ -205,7 +205,7 @@
     <string name="connectionWizard_misc_incorrectConnectionURI">Uriktig tilkoblings-URI brukt</string>
     <string name="connectionWizard_welcome_titleMessage">Velkommen til wallabag.</string>
     <string name="connectionWizard_welcome_text">Før du bruker wallabag må du sette opp en tilkobling. Tilkoblingsveiviseren vil hjelpe deg med det.</string>
-    <string name="connectionWizard_welcome_rerunNotice">Du kan alltids kjøre tilkoblingsveiviseren igjen fra \"Innstillinger\".</string>
+    <string name="connectionWizard_welcome_rerunNotice">(Du kan kjøre tilkoblingsveiviseren på nytt fra «Innstillinger» når som helst.)</string>
     <string name="connectionWizard_welcome_prev">Hopp over</string>
     <string name="connectionWizard_welcome_next">Neste</string>
     <string name="connectionWizard_providerSelection_titleMessage">Velg wallabag-tilbyder</string>
@@ -275,7 +275,7 @@
     <string name="pref_name_ui_article_handlePreformattedText">Håndtering av forhåndsformatert tekst i langt format</string>
     <string name="pref_desc_ui_article_handlePreformattedText">Hvordan forhåndsformatert tekst som er for lang til å vises i sin helhet, skal håndteres.</string>
     <string name="pref_name_ui_swipeArticles">Sveip artikler</string>
-    <string name="pref_desc_ui_swipeArticles">Dra til venstre eller høyre i en artikkel for å gå til neste eller forrige</string>
+    <string name="pref_desc_ui_swipeArticles">Sveip ← eller → i en artikkel for å gå til forrige eller neste artikkel</string>
     <string name="pref_name_ui_previewImage_enabled">Forhåndsvis bilde</string>
     <string name="pref_desc_ui_previewImage_enabled">Vis forhåndsvisningsbildet før artikkelen</string>
     <string name="notification_stacktrace">Stabelspor:</string>
@@ -286,11 +286,11 @@
     <string name="connectionWizard_misc_installQrCodeScanner">(Installer en QR-kodeskanner først.)</string>
     <string name="pref_categoryName_misc_localQueue">Lokale endringer</string>
     <string name="pref_name_misc_localQueue_notice">ADVARSEL</string>
-    <string name="pref_desc_misc_localQueue_notice">Ikke gjør noe her med mindre du vet hva du gjør</string>
+    <string name="pref_desc_misc_localQueue_notice">Ikke gjør noe her med mindre du vet hva du gjør!</string>
     <string name="pref_name_misc_localQueue_dumpToFile">Lagre til fil</string>
     <string name="pref_desc_misc_localQueue_dumpToFile">Lagrer alle lokale filendringer til en txt-fil (du kan sjekke den selv, eller legge den til i en feilrapport)</string>
     <string name="pref_name_misc_localQueue_removeFirstItem">Fjern første lokale element i køen</string>
-    <string name="pref_desc_misc_localQueue_removeFirstItem">Fjerner første usykroniserte element. Kan hjelpe hvis du får vedvarende feilmeldinger under synkronisering. Dump alle lokale endringer til en fil først.</string>
+    <string name="pref_desc_misc_localQueue_removeFirstItem">Fjerner det første usynkroniserte elementet. Kan hjelpe mot gjentatte feilvarsler under synkronisering. Tips: Lagre alle lokale endringer til en fil først.</string>
     <string name="misc_localQueue_empty">Ingen lokale endringer</string>
     <string name="misc_localQueue_removeFirstItem_done">Ferdig</string>
     <string name="misc_localQueue_dumpToFile_result_dumped">Lagret som %s</string>
